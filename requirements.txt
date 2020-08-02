@@ -1,0 +1,9 @@
+Flask
+google-api-python-client
+google-auth
+gspread
+neo4j
+oauth2client
+panda
+
+#python -m pip install -r requirements.txt
